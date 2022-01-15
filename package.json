@@ -1,0 +1,23 @@
+{
+  "name": "algorithm-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinhthang2307/algorithm-practice.git"
+  },
+  "keywords": [
+    "Thang"
+  ],
+  "author": "thang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinhthang2307/algorithm-practice/issues"
+  },
+  "homepage": "https://github.com/dinhthang2307/algorithm-practice#readme"
+}
